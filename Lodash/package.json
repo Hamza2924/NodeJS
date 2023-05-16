@@ -10,7 +10,7 @@
   "description": "check lodash liberary",
   "main": "lodash.js",
   "scripts": {
-    "start": "nodemon index.js",
+    "start": "nodemon Midleware.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "hamza",
